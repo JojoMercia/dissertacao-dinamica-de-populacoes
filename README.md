@@ -12,7 +12,7 @@ O programa fornece como saída a evolução temporal do potencial de membrana m�
 - [`populacaobib.c`](./populacaobib.c): biblioteca com funções auxiliares (inicialização, evolução, cálculo de correntes etc.).
 - [`populacaobib.h`](./populacaobib.h): cabeçalho com as definições das estruturas e funções utilizadas.
 
-## Licença
+## 🔐 Licença
 
 Este repositório sob a licença [MIT](./LICENSE).
 
